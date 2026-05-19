@@ -4,7 +4,7 @@ import { useProgressStore } from '../../stores/progressStore'
 import { useAuthStore } from '../../stores/authStore'
 import { PROBLEMS } from '../../data/problems'
 import { GFG_SLUGS } from '../../data/gfgSlugs'
-import { LC_BASE, GFG_BASE, STATUS_LABEL } from '../../types'
+import { LC_BASE, GFG_BASE } from '../../types'
 import type { Problem } from '../../types'
 import { X, Clock, CheckCircle2, Circle, XCircle } from 'lucide-react'
 
